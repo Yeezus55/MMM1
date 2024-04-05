@@ -41,9 +41,7 @@
     }
     
     .img {
-        float: right;
-        position: absolute;
-        right: 0;
+        flex: right;
     }
     
     
