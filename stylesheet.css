@@ -24,9 +24,7 @@
     }
     
     .pic {
-        position: right;
-        width: 150px;
-        height: 150px;
+    display: flex;
     }
 
     .button{
