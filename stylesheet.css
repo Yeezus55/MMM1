@@ -25,6 +25,7 @@
     
     .pic {
     display: flex;
+    width: fit-content;
     }
 
     .button{
