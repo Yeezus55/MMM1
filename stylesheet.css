@@ -23,12 +23,15 @@
     transform: translateY(10px);
     }
     
+    .pic {
+        flex: right;
+    }
+    
     .button{
     background-color: #007B69;
     }
     
-    
-    
+  
     .nav {
         width: 73%;
         padding: 1%;
@@ -39,11 +42,7 @@
         text-indent: 50px;
         padding-right: 50px;
     }
-    
-    .img {
-        display: flex;
-        margin-right: 50px;
-    }
+
     
     
     .h1 {
