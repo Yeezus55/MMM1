@@ -24,7 +24,6 @@
     }
     
     .pic {
-    position: right;
     width: fit-content;
     float: right;
     }
@@ -45,7 +44,6 @@
         padding-right: 50px;
     }
 
-    
     
     .h1 {
     
