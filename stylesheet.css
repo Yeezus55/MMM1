@@ -26,6 +26,7 @@
     .pic {
     position: right;
     width: fit-content;
+    float: right;
     }
 
     .button{
@@ -111,14 +112,3 @@
     @media screen { 
         (max-width: 600);
     }
-
-    #body {
-        margin 0px, 5%;
-        display: grid;
-        grid-template-rows: 300px 300px 300px;
-        grid-template-columns: 1fr 1fr 1fr;
-        grid-template-areas: 
-        "User research  Communication  Prototyping"
-  }
-
-        
