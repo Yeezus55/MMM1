@@ -83,10 +83,10 @@
         grid-row: 1fr 1fr 1fr;
     }
     
-    .main {
+    .section {
         display: grid;
-        grid-template-areas: "topbar topbar topbar";
-        align-content: centr;
+        grid-template-areas: "topbar topbar";
+        align-content: center;
     }
     
     .h1 {
