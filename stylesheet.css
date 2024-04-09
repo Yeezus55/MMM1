@@ -24,7 +24,7 @@
     }
     
     .pic {
-    display: flex;
+    position: right;
     width: fit-content;
     }
 
