@@ -24,7 +24,8 @@
     }
     
     .pic {
-        flex: right;
+        position: absolute;
+        right: 0%;
         width: 150px;
         height: 150px;
     }
