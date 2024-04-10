@@ -23,8 +23,8 @@
     transform: translateY(10px);
     }
     
-    .pIc {
-
+    .img {
+    float: right;
     }
 
     .my-button {
