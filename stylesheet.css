@@ -27,8 +27,12 @@
 
     }
 
-    .button{
+    .my-button {
     background-color: #007B69;
+    color: #F0EEE1;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
     }
     
   
